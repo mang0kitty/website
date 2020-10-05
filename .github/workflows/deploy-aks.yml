@@ -7,8 +7,8 @@ on:
 
 env:
   MANIFESTS: |
-    ./kubernetes/deployment.yml
-    ./kubernetes/service.yml
+    ./kubernetes/deployment.yaml
+    ./kubernetes/service.yaml
   IMAGE: faaideen/website
 
   STAGING_CLUSTER: k8s-common
