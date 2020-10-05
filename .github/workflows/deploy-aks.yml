@@ -14,12 +14,12 @@ env:
   STAGING_CLUSTER: k8s-common
   STAGING_RESOURCEGROUP: app-common
   STAGING_NAMESPACE: "aideen-website-staging"
-  STAGING_HEALTHCHECK: "https://staging.api.aideen.dev/"
+  STAGING_HEALTHCHECK: "https://staging.api.aideen.dev/books"
   
   LIVE_CLUSTER: k8s-common
   LIVE_RESOURCEGROUP: app-common
   LIVE_NAMESPACE: "aideen-website-prod"
-  LIVE_HEALTHCHECK: "https://api.aideen.dev/"
+  LIVE_HEALTHCHECK: "https://api.aideen.dev/books"
 
 jobs:
   test:
