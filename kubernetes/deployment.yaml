@@ -23,6 +23,12 @@ spec:
           ports:
             - containerPort: 8000
               protocol: TCP
+          env:
+            - name: GOODREADS_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  key: goodreads_key
+                  name: aideen-website-secrets
           resources:
             limits:
               cpu: 100m
