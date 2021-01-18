@@ -11,4 +11,4 @@ spec:
     - protocol: TCP
       name: http
       port: 80 # abstracted Service port which can be any port other pods used to access the service
-      targetPort: 8000 # the port the container accepts traffic on
+      targetPort: http # the port the container accepts traffic on

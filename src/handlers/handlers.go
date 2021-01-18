@@ -24,6 +24,8 @@ func Handle() *mux.Router {
 }
 
 func BookHandler(w http.ResponseWriter, req *http.Request) {
+	fmt.Println("Successfully Opened books.json")
+
 	enableCors(w)
 	fptr, err := os.Open("src/store/books.json")
 	helpers.CheckError(err)

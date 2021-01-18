@@ -2,287 +2,509 @@
   {
     "id": 1,
     "title": "Becoming",
-    "author": ["Michelle Obama"],
+    "author": [
+      "Michelle Obama"
+    ],
     "date_read": 2020,
     "description": "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era. As First Lady of the United States of America—the first African American to serve in that role—she helped create the most welcoming and inclusive White House in history, while also establishing herself as a powerful advocate for women and girls in the U.S. and around the world, dramatically changing the ways that families pursue healthier and more active lives, and standing with her husband as he led America through some of its most harrowing moments. Along the way, she showed us a few dance moves, crushed Carpool Karaoke, and raised two down-to-earth daughters under an unforgiving media glare. \u003cbr /\u003e \u003cbr /\u003eIn her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites readers into her world, chronicling the experiences that have shaped her—from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work, to her time spent at the world’s most famous address. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private, telling her full story as she has lived it—in her own words and on her own terms. Warm, wise, and revelatory, Becoming is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same.",
     "photo": "/images/becoming.jpg",
     "isbn": "9781524763138",
-    "tags": ["autobiography", "purpose"],
-    "rating": 4.55
+    "tags": [
+      "autobiography",
+      "purpose"
+    ],
+    "rating": 4.54
   },
   {
     "id": 2,
     "title": "The Education of an Idealist",
-    "author": ["Samantha Power"],
+    "author": [
+      "Samantha Power"
+    ],
     "date_read": 2020,
-    "description": "'Her highly personal and reflective memoir . . . is a must-read for anyone who cares about our role in a changing world.' —President Barack Obama. An intimate, powerful, and galvanizing memoir by Pulitzer Prize winner, human rights advocate, and former UN Ambassador Samantha Power.\u003c/strong\u003e\u003cbr /\u003e\u003cbr /\u003eIn her memoir, Power offers an urgent response to the question \"What can one person do?\" and a call for a clearer eye, a kinder heart, and a more open and civil hand in our politics and daily lives. The Education of an Idealist traces Power’s distinctly American journey from immigrant to war correspondent to presidential Cabinet official. In 2005, her critiques of US foreign policy caught the eye of newly elected senator Barack Obama, who invited her to work with him on Capitol Hill and then on his presidential campaign. After Obama was elected president, Power went from being an activist outsider to a government insider, navigating the halls of power while trying to put her ideals into practice. She served for four years as Obama’s human rights adviser, and in 2013, he named her US Ambassador to the United Nations, the youngest American to assume the role.\u003cbr /\u003e\u003cbr /\u003ePower transports us from her childhood in Dublin to the streets of war-torn Bosnia to the White House Situation Room and the world of high-stakes diplomacy. Humorous and deeply honest, The Education of an Idealist lays bare the searing battles and defining moments of her life and shows how she juggled the demands of a 24/7 national security job with the challenge of raising two young children. Along the way, she illuminates the intricacies of politics and geopolitics, reminding us how the United States can lead in the world, and why we each have the opportunity to advance the cause of human dignity. Power’s memoir is an unforgettable account of the power of idealism and of one person’s fierce determination to make a difference.\u003cbr /\u003e\u003cbr /\u003e“This is a wonderful book. […] The interweaving of Power’s personal story, family story, diplomatic history and moral arguments is executed seamlessly and with unblinking honesty.”—THOMAS L. FRIEDMAN, \u003cem\u003eThe New York Times Book Review \u003c/em\u003e\u003cbr /\u003e\u003cbr /\u003e“Honest, personal, revealing… about the development of a young woman’s inner strength and self-knowledge.”—COLM TÓIBÍN, author of \u003cem\u003eBrooklyn\u003c/em\u003e and \u003cem\u003eNora Webster\u003c/em\u003e\u003cbr /\u003e\u003cbr /\u003e“Truly engrossing.”—RACHEL MADDOW\u003cbr /\u003e",
+    "description": "Pulitzer Prize winner Samantha Power, widely known as a relentless advocate for promoting human rights, has been heralded by President Barack Obama as one of America's \"foremost thinkers on foreign policy.\"\u003cbr /\u003e\u003cbr /\u003eIn her memoir, Power offers an urgent response to the question \"What can one person do?\"—and a call for a clearer eye, a kinder heart, and a more open and civil hand in our politics and daily lives. \u003cem\u003eThe Education of an Idealist \u003c/em\u003etraces Power’s distinctly American journey from immigrant to war correspondent to presidential Cabinet official. In 2005, her critiques of US foreign policy caught the eye of newly elected senator Barack Obama, who invited her to work with him on Capitol Hill and then on his presidential campaign. After Obama was elected president, Power went from being an activist outsider to a government insider, navigating the halls of power while trying to put her ideals into practice. She served for four years as Obama’s human rights adviser, and in 2013, he named her US Ambassador to the United Nations, the youngest American to assume the role.\u003cbr /\u003e\u003cbr /\u003eA Pulitzer Prize–winning writer, Power transports us from her childhood in Dublin to the streets of war-torn Bosnia to the White House Situation Room and the world of high-stakes diplomacy. \u003cem\u003eThe Education of an\u003c/em\u003e \u003cem\u003eIdealist \u003c/em\u003elays bare the battles and defining moments of her life and shows how she juggled the demands of a 24/7 national security job with the challenge of raising two young children. Along the way, she illuminates the intricacies of politics and geopolitics, reminding us how the United States can lead in the world, and why we each have the opportunity to advance the cause of human dignity.",
     "photo": "/images/theEducationOfAnIdealist.jpeg",
     "isbn": "9780062943842",
-    "tags": ["autobiography", "human rights", "foreign policy"],
+    "tags": [
+      "autobiography",
+      "human rights",
+      "foreign policy"
+    ],
     "rating": 4.36
   },
   {
     "id": 3,
     "title": "Sandworm",
-    "author": ["Andy Greenberg"],
+    "author": [
+      "Andy Greenberg"
+    ],
     "date_read": 2020,
-    "description": "\u003cb\u003e\"Immensely readable...A hair-raising, cautionary tale about the burgeoning, post-Stuxnet world of state-sponsored hackers.\"\u003cbr /\u003e --\u003cb\u003e\u003ci\u003eWashington Post\u003c/i\u003e\u003c/b\u003e\u003cbr /\u003e\u003c/b\u003e\u003cbr /\u003e\u003cb\u003eFrom \u003ci\u003eWired \u003c/i\u003esenior writer Andy Greenberg comes the true story of the most devastating cyberattack in history and the desperate hunt to identify and track the elite Russian agents behind it\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003eIn 2014, the world witnessed the start of a mysterious series of cyberattacks. Targeting American utility companies, NATO, and electric grids in Eastern Europe, the strikes grew ever more brazen. They culminated in the summer of 2017, when the malware known as NotPetya was unleashed, penetrating, disrupting, and paralyzing some of the world's largest businesses--from drug manufacturers to software developers to shipping companies. At the attack's epicenter in Ukraine, ATMs froze. The railway and postal systems shut down. Hospitals went dark. NotPetya spread around the world, inflicting an unprecedented ten billion dollars in damage--the largest, most destructive cyberattack the world had ever seen.\u003cbr /\u003e\u003cbr /\u003eThe hackers behind these attacks are quickly gaining a reputation as the most dangerous team of cyberwarriors in history: a group known as Sandworm. Working in the service of Russia's military intelligence agency, they represent a persistent, highly skilled force, one whose talents are matched by their willingness to launch broad, unrestrained attacks on the most critical infrastructure of their adversaries. They target government and private sector, military and civilians alike.\u003cbr /\u003e\u003cbr /\u003eA chilling, globe-spanning detective story, \u003ci\u003eSandworm\u003c/i\u003e considers the danger this force poses to our national security and stability. As the Kremlin's role in foreign government manipulation comes into greater focus, \u003ci\u003eSandworm\u003c/i\u003e exposes the realities not just of Russia's global digital offensive, but of an era where warfare ceases to be waged on the battlefield. It reveals how the lines between digital and physical conflict, between wartime and peacetime, have begun to blur--with world-shaking implications.",
+    "description": "\u003cb\u003e\u003cb\u003eFrom \u003ci\u003eWired \u003c/i\u003esenior writer Andy Greenberg comes the true story of the most devastating cyberattack in history and the desperate hunt to identify and track the elite Russian agents behind it.\u003c/b\u003e \u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003e\"Much more than a true-life techno-thriller ... a tour through a realm that is both invisible and critical to the daily lives of every person alive in the 21st century.\"\u003ci\u003e\n  \u003cbr /\u003e\n\u003c/i\u003e--\u003ci\u003eLos Angeles Times\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003eIn 2014, the world witnessed the start of a mysterious series of cyberattacks. Targeting American utility companies, NATO, and electric grids in Eastern Europe, the strikes grew ever more brazen. They culminated in the summer of 2017, when the malware known as NotPetya was unleashed, penetrating, disrupting, and paralyzing some of the world's largest businesses--from drug manufacturers to software developers to shipping companies. At the attack's epicenter in Ukraine, ATMs froze. The railway and postal systems shut down. Hospitals went dark. NotPetya spread around the world, inflicting an unprecedented ten billion dollars in damage--the largest, most destructive cyberattack the world had ever seen.\u003cbr /\u003e\u003cbr /\u003eThe hackers behind these attacks are quickly gaining a reputation as the most dangerous team of cyberwarriors in history: a group known as Sandworm. Working in the service of Russia's military intelligence agency, they represent a persistent, highly skilled force, one whose talents are matched by their willingness to launch broad, unrestrained attacks on the most critical infrastructure of their adversaries. They target government and private sector, military and civilians alike.\u003cbr /\u003e\u003cbr /\u003eA chilling, globe-spanning detective story, \u003ci\u003eSandworm\u003c/i\u003e considers the danger this force poses to our national security and stability. As the Kremlin's role in foreign government manipulation comes into greater focus, \u003ci\u003eSandworm\u003c/i\u003e exposes the realities not just of Russia's global digital offensive, but of an era where warfare ceases to be waged on the battlefield. It reveals how the lines between digital and physical conflict, between wartime and peacetime, have begun to blur--with world-shaking implications.",
     "photo": "/images/sandworm.jpg",
     "isbn": "9780525564638",
-    "tags": ["cybersecurity", "foreign policy"],
-    "rating": 4.4
+    "tags": [
+      "cybersecurity",
+      "foreign policy"
+    ],
+    "rating": 4.38
   },
   {
     "id": 4,
     "title": "Countdown to Zero Day",
-    "author": ["Zim Zetter"],
+    "author": [
+      "Zim Zetter"
+    ],
     "date_read": 2020,
     "description": "\u003ci\u003eTop cybersecurity journalist Kim Zetter tells the story behind the virus that sabotaged Iran’s nuclear efforts and shows how its existence has ushered in a new age of warfare—one in which a digital attack can have the same destructive capability as a megaton bomb. \u003c/i\u003e\u003cbr /\u003e  \u003cbr /\u003e In January 2010, inspectors with the International Atomic Energy Agency noticed that centrifuges at an Iranian uranium enrichment plant were failing at an unprecedented rate. The cause was a complete mystery—apparently as much to the technicians replacing the centrifuges as to the inspectors observing them. \u003cbr /\u003e  \u003cbr /\u003e Then, five months later, a seemingly unrelated event occurred: A computer security firm in Belarus was called in to troubleshoot some computers in Iran that were crashing and rebooting repeatedly.\u003cbr /\u003e  \u003cbr /\u003e  At first, the firm’s programmers believed the malicious code on the machines was a simple, routine piece of malware. But as they and other experts around the world investigated, they discovered a mysterious virus of unparalleled complexity. \u003cbr /\u003e  \u003cbr /\u003e They had, they soon learned, stumbled upon the world’s first digital weapon. For Stuxnet, as it came to be known, was unlike any other virus or worm built before: Rather than simply hijacking targeted computers or stealing information from them, it escaped the digital realm to wreak actual, \u003ci\u003ephysical \u003c/i\u003edestruction on a nuclear facility.  \u003cbr /\u003e  \u003cbr /\u003e In these pages, \u003ci\u003eWired \u003c/i\u003ejournalist Kim Zetter draws on her extensive sources and expertise to tell the story behind Stuxnet’s planning, execution, and discovery, covering its genesis in the corridors of Bush’s White House and its unleashing on systems in Iran—and telling the spectacular, unlikely tale of the security geeks who managed to unravel a sabotage campaign years in the making. \u003cbr /\u003e  \u003cbr /\u003e But \u003ci\u003eCountdown to Zero Day \u003c/i\u003eranges far beyond Stuxnet itself. Here, Zetter shows us how digital warfare developed in the US. She takes us inside today’s flourishing zero-day “grey markets,” in which intelligence agencies and militaries pay huge sums for the malicious code they need to carry out infiltrations and attacks. She reveals just how vulnerable many of our own critical systems are to Stuxnet-like strikes, from nation-state adversaries and anonymous hackers alike—and shows us just what might happen should our infrastructure be targeted by such an attack. \u003cbr /\u003e  \u003cbr /\u003e Propelled by Zetter’s unique knowledge and access, and filled with eye-opening explanations of the technologies involved, \u003ci\u003eCountdown to Zero Day \u003c/i\u003eis a comprehensive and prescient portrait of a world at the edge of a new kind of war.",
     "photo": "/images/countdownToZeroDay.jpg",
     "isbn": "9780770436193",
-    "tags": ["cybersecurity", "foreign policy"],
+    "tags": [
+      "cybersecurity",
+      "foreign policy"
+    ],
     "rating": 4.14
   },
   {
     "id": 5,
     "title": "Why I’m No Longer Talking to White People About Race",
-    "author": ["Reni Eddo-Lodge"],
+    "author": [
+      "Reni Eddo-Lodge"
+    ],
     "date_read": 2020,
-    "description": "'Every voice raised against racism chips away at its power. We can't afford to stay silent. This book is an attempt to speak'. This is the book that sparked a national conversation. Exploring everything from eradicated black history to the inextricable link between class and race, Why I'm No Longer Talking to White People About Race is the essential handbook for anyone who wants to understand race relations in Britain today.",
+    "description": "In 2014, award-winning journalist Reni Eddo-Lodge wrote about her frustration with the way that discussions of race and racism in Britain were being led by those who weren't affected by it. She posted a piece on her blog, entitled: 'Why I'm No Longer Talking to White People About Race' that led to this book.\u003cbr /\u003e\u003cbr /\u003eExploring issues from eradicated black history to the political purpose of white dominance, whitewashed feminism to the inextricable link between class and race, Reni Eddo-Lodge offers a timely and essential new framework for how to see, acknowledge and counter racism. It is a searing, illuminating, absolutely necessary exploration of what it is to be a person of colour in Britain today.",
     "photo": "/images/whyimlonlongertalkingabout.png",
     "isbn": "9781408870556",
-    "tags": ["human rights", "informative", "racism", "activism"],
-    "rating": 4.42
+    "tags": [
+      "human rights",
+      "informative",
+      "racism",
+      "activism"
+    ],
+    "rating": 4.43
   },
   {
     "id": 6,
     "title": "The Moment of Lift",
-    "author": ["Melinda Gates"],
+    "author": [
+      "Melinda Gates"
+    ],
     "date_read": 2019,
-    "description": "How can we summon a moment of lift for human beings\u003c/i\u003e--\u003ci\u003eand especially for women? Because when you lift up women, you lift up humanity.\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003eFor the last twenty years, Melinda Gates has been on a mission to find solutions for people with the most urgent needs, wherever they live. Throughout this journey, one thing has become increasingly clear to her: If you want to lift society up, you need to stop keeping women down.\u003cbr /\u003e\u003cbr /\u003eIn this moving and compelling book, Melinda shares lessons she's learned from the inspiring people she's met during her work and travels around the world. As she writes in the introduction, \"That is why I had to write this book--to share the stories of people who have given focus and urgency to my life. I want all of us to see ways we can lift women up where we live.\"\u003cbr /\u003e\u003cbr /\u003eMelinda's unforgettable narrative is backed by startling data as she presents the issues that most need our attention--from child marriage to lack of access to contraceptives to gender inequity in the workplace. And, for the first time, she writes about her personal life and the road to equality in her own marriage. Throughout, she shows how there has never been more opportunity to change the world--and ourselves.\u003cbr /\u003e\u003cbr /\u003eWriting with emotion, candor, and grace, she introduces us to remarkable women and shows the power of connecting with one another.\u003cbr /\u003e\u003cbr /\u003eWhen we lift others up, they lift us up, too.",
+    "description": "\u003cb\u003e\u003ci\u003eNEW YORK TIMES \u003c/i\u003eBESTSELLER\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003e\u003ci\u003eHow can we summon a moment of lift for human beings\u003c/i\u003e—\u003ci\u003eand especially for women? Because when you lift up women, you lift up humanity.\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003eFor the last twenty years, Melinda Gates has been on a mission to find solutions for people with the most urgent needs, wherever they live. Throughout this journey, one thing has become increasingly clear to her: If you want to lift society up, you need to stop keeping women down.\u003cbr /\u003e\u003cbr /\u003eIn this moving and compelling book, Melinda shares lessons she’s learned from the inspiring people she’s met during her work and travels around the world. As she writes in the introduction, “That is why I had to write this book—to share the stories of people who have given focus and urgency to my life. I want all of us to see ways we can lift women up where we live.”\u003cbr /\u003e\u003cbr /\u003eMelinda’s unforgettable narrative is backed by startling data as she presents the issues that most need our attention—from child marriage to lack of access to contraceptives to gender inequity in the workplace. And, for the first time, she writes about her personal life and the road to equality in her own marriage. Throughout, she shows how there has never been more opportunity to change the world—and ourselves.\u003cbr /\u003e\u003cbr /\u003eWriting with emotion, candor, and grace, she introduces us to remarkable women and shows the power of connecting with one another.\u003cbr /\u003e\u003cbr /\u003eWhen we lift others up, they lift us up, too.",
     "photo": "/images/theMomentOfLift.jpg",
     "isbn": "9781250257727",
-    "tags": ["informative", "human rights", "inspiring"],
+    "tags": [
+      "informative",
+      "human rights",
+      "inspiring"
+    ],
     "rating": 4.31
   },
   {
     "id": 7,
     "title": "Get a Life, Chloe Brown",
-    "author": ["Talia Hibbert"],
+    "author": [
+      "Talia Hibbert"
+    ],
     "date_read": 2019,
     "description": "Chloe Brown is a chronically ill computer geek with a goal, a plan, and a list. After almost—but not quite—dying, she’s come up with seven directives to help her “Get a Life”, and she’s already completed the first: finally moving out of her glamorous family’s mansion. The next items?\u003cbr /\u003e\u003cbr /\u003e• Enjoy a drunken night out.\u003cbr /\u003e• Ride a motorcycle.\u003cbr /\u003e• Go camping.\u003cbr /\u003e• Have meaningless but thoroughly enjoyable sex.\u003cbr /\u003e• Travel the world with nothing but hand luggage.\u003cbr /\u003e• And... do something bad.\u003cbr /\u003e\u003cbr /\u003eBut it’s not easy being bad, even when you’ve written step-by-step guidelines on how to do it correctly. What Chloe needs is a teacher, and she knows just the man for the job.\u003cbr /\u003e\u003cbr /\u003eRedford ‘Red’ Morgan is a handyman with tattoos, a motorcycle, and more sex appeal than ten-thousand Hollywood heartthrobs. He’s also an artist who paints at night and hides his work in the light of day, which Chloe knows because she spies on him occasionally. Just the teeniest, tiniest bit.\u003cbr /\u003e\u003cbr /\u003eBut when she enlists Red in her mission to rebel, she learns things about him that no spy session could teach her. Like why he clearly resents Chloe’s wealthy background. And why he never shows his art to anyone. And what really lies beneath his rough exterior…",
     "photo": "/images/getalifechloebrown.jpg",
     "isbn": "9780062941206",
-    "tags": ["funny", "fiction"],
-    "rating": 3.85
+    "tags": [
+      "funny",
+      "fiction"
+    ],
+    "rating": 3.86
   },
   {
     "id": 8,
     "title": "The Tattooist of Auschwitz",
-    "author": ["Heather Morris"],
+    "author": [
+      "Heather Morris"
+    ],
     "date_read": 2019,
     "description": "\u003ci\u003eThe Tattooist of Auschwitz\u003c/i\u003e is based on the true story of Lale and Gita Sokolov, two Slovakian Jews who survived Auschwitz and eventually made their home in Australia. In that terrible place, Lale was given the job of tattooing the prisoners marked for survival - literally scratching numbers into his fellow victims' arms in indelible ink to create what would become one of the most potent symbols of the Holocaust. Lale used the infinitesimal freedom of movement that this position awarded him to exchange jewels and money taken from murdered Jews for food to keep others alive. If he had been caught, he would have been killed; many owed him their survival.\u003cbr /\u003e\u003cbr /\u003eThere have been many books about the Holocaust - and there will be many more. What makes this one so memorable is Lale Sokolov's incredible zest for life. He understood exactly what was in store for him and his fellow prisoners, and he was determined to survive - not just to survive but to leave the camp with his dignity and integrity intact, to live his life to the full. Terrible though this story is, it is also a story of hope and of courage. It is also - almost unbelievably - a love story. Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lale - a dandy, a jack-the-lad, a bit of a chancer - it was love at first sight, and he determined not only to survive himself but to ensure that Gita did, too. His story - their story - will make you weep, but you will also find it uplifting. It shows the very best of humanity in the very worst of circumstances.\u003cbr /\u003e\u003cbr /\u003eLike many survivors, Lale and Gita told few people their story after the war. They eventually made their way to Australia, where they raised a son and had a successful life. But when Gita died, Lale felt he could no longer carry the burden of their past alone. He chose to tell his story. \u003ci\u003ePublisher's Summary\u003c/i\u003e",
     "photo": "/images/theTattooistOfAuschwitz.jpg",
     "isbn": "9781785763656",
-    "tags": ["fiction", "history"],
+    "tags": [
+      "fiction",
+      "history"
+    ],
     "rating": 4.26
   },
   {
     "id": 9,
     "title": "Animal",
-    "author": ["Sara Pascoe"],
+    "author": [
+      "Sara Pascoe"
+    ],
     "date_read": 2020,
-    "description": "Women have so much going on, what with boobs and jealousy and menstruating and broodiness and sex and infidelity and pubes and wombs and jobs and memories and emotions and the past and the future and themselves and each other. Here's a book that deals with all of it. Sara Pascoe has joked about feminity and sexuality on stage and screen but now she has a book to talk about it all for a bit longer. Animal combines autobiography and evolutionary history to create a funny, fascinating insight into the forces that mould and affect modern women. Animal is entertaining and informative, personal and universal - silly about lots of things and serious about some. It's a laugh-out-loud investigation to help us understand and forgive our animal urges and insecurities.",
+    "description": "\u003ci\u003eThe Tattooist of Auschwitz\u003c/i\u003e is based on the true story of Lale and Gita Sokolov, two Slovakian Jews who survived Auschwitz and eventually made their home in Australia. In that terrible place, Lale was given the job of tattooing the prisoners marked for survival - literally scratching numbers into his fellow victims' arms in indelible ink to create what would become one of the most potent symbols of the Holocaust. Lale used the infinitesimal freedom of movement that this position awarded him to exchange jewels and money taken from murdered Jews for food to keep others alive. If he had been caught, he would have been killed; many owed him their survival.\u003cbr /\u003e\u003cbr /\u003eThere have been many books about the Holocaust - and there will be many more. What makes this one so memorable is Lale Sokolov's incredible zest for life. He understood exactly what was in store for him and his fellow prisoners, and he was determined to survive - not just to survive but to leave the camp with his dignity and integrity intact, to live his life to the full. Terrible though this story is, it is also a story of hope and of courage. It is also - almost unbelievably - a love story. Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lale - a dandy, a jack-the-lad, a bit of a chancer - it was love at first sight, and he determined not only to survive himself but to ensure that Gita did, too. His story - their story - will make you weep, but you will also find it uplifting. It shows the very best of humanity in the very worst of circumstances.\u003cbr /\u003e\u003cbr /\u003eLike many survivors, Lale and Gita told few people their story after the war. They eventually made their way to Australia, where they raised a son and had a successful life. But when Gita died, Lale felt he could no longer carry the burden of their past alone. He chose to tell his story. \u003ci\u003ePublisher's Summary\u003c/i\u003e",
     "photo": "/images/Animal.jpg",
     "isbn": "9781785763656",
-    "tags": ["feminism", "growth", "informative"],
+    "tags": [
+      "feminism",
+      "growth",
+      "informative"
+    ],
     "rating": 4.26
   },
   {
     "id": 10,
     "title": "Girl, Wash Your Face",
-    "author": ["Rachel Hollis"],
+    "author": [
+      "Rachel Hollis"
+    ],
     "date_read": 2019,
     "description": "\u003cstrong\u003eWith wry wit and hard-earned wisdom, popular online personality and founder of TheChicSite.com founder Rachel Hollis helps readers break free from the lies keeping them from the joy-filled and exuberant life they are meant to have.\u003c/strong\u003e\u003cbr /\u003e\u003cbr /\u003eFounder of the lifestyle website TheChicSite.com and CEO of her own media company, Chic Media, Rachel Hollis has created an online fan base of hundreds of thousands of fans by sharing tips for living a better life while fearlessly revealing the messiness of her own. Now comes her highly anticipated first book featuring her signature combination of honesty, humor, and direct, no-nonsense advice.\u003cbr /\u003e\u003cbr /\u003eEach chapter of \u003cem\u003eGirl, Wash Your Face\u003c/em\u003e begins with a specific lie Hollis once believed that left her feeling overwhelmed, unworthy, or ready to give up. As a working mother, a former foster parent, and a woman who has dealt with insecurities about her body and relationships, she speaks with the insight and kindness of a BFF, helping women unpack the limiting mind-sets that destroy their self-confidence and keep them from moving forward.\u003cbr /\u003e\u003cbr /\u003eFrom her temporary obsession with marrying Matt Damon to a daydream involving hypnotic iguanas to her son’s request that she buy a necklace to “be like the other moms,” Hollis holds nothing back. With unflinching faith and tenacity, Hollis spurs other women to live with passion and hustle and to awaken their slumbering goals.",
     "photo": "/images/girlWashYourFace.jpg",
     "isbn": "9781400220809",
-    "tags": ["growth", "mindset"],
-    "rating": 3.73
+    "tags": [
+      "growth",
+      "mindset"
+    ],
+    "rating": 3.71
   },
   {
     "id": 11,
     "title": "The Nightingale",
-    "author": ["Kristin Hannah"],
+    "author": [
+      "Kristin Hannah"
+    ],
     "date_read": 2019,
     "description": "The New York Times number one bestselling title Bravery, courage, fear and love in a time of war. Despite their differences, sisters Viann and Isabelle have always been close. Younger, bolder Isabelle lives in Paris while Viann is content with life in the French countryside with her husband Antoine and their daughter. But when the Second World War strikes, Antoine is sent off to fight and Viann finds herself isolated so Isabelle is sent by their father to help her. As the war progresses, the sisters' relationship and strength is tested. With life changing in unbelievably horrific ways, Viann and Isabelle will find themselves facing frightening situations and responding in ways they never thought possible as bravery and resistance take different forms in each of their actions. Vivid and exquisite in its illumination of a time and place that was filled with atrocities, but also humanity and strength, Kristin Hannah's The Nightingale will provoke thought and discussion that will have readers talking long after they finish reading.",
     "photo": "/images/theNightingale.jpg",
     "isbn": "9781509848621",
-    "tags": ["fiction", "history"],
-    "rating": 4.58
+    "tags": [
+      "fiction",
+      "history"
+    ],
+    "rating": 4.57
   },
   {
     "id": 12,
     "title": "You are a badass: How to stop doubting your greatness and start living an awesome life",
-    "author": ["Jen Sincero"],
+    "author": [
+      "Jen Sincero"
+    ],
     "date_read": 2019,
     "description": "\u003cb\u003eThe #1 \u003ci\u003eNew York Times\u003c/i\u003e Bestseller \u003ci\u003eYou Are A Badass\u003c/i\u003e is the self-help book for people who desperately want to improve their lives but don't want to get busted doing it.\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003eIn this refreshingly entertaining how-to guide, #1 \u003ci\u003eNew York Times\u003c/i\u003e Bestselling Author and world-traveling success coach, Jen Sincero, serves up 27 bite-sized chapters full of hilariously inspiring stories, sage advice, easy exercises, and the occasional swear word. If you're ready to make some serious changes around here, \u003ci\u003eYou Are a Badass\u003c/i\u003e will help you: Identify and change the self-sabotaging beliefs and behaviors that stop you from getting what you want, blast past your fears so you can take big exciting risks, figure out how to make some damn money already, learn to love yourself and others, set big goals and reach them - it will basically show you how to create a life you totally love, and how to create it \u003ci\u003enow\u003c/i\u003e.\u003cbr /\u003e\u003cbr /\u003eBy the end of \u003ci\u003eYou Are a Badass\u003c/i\u003e, you'll understand why you are how you are, how to love what you can't change, how to change what you don't love, and how to use The Force to kick some serious ass.",
     "photo": "/images/youAreABadass.jpg",
     "isbn": "9780762447695",
-    "tags": ["growth", "mindset"],
+    "tags": [
+      "growth",
+      "mindset"
+    ],
     "rating": 3.95
   },
   {
     "id": 13,
     "title": "The Little Book of Lykke",
-    "author": ["Meik Wiking"],
+    "author": [
+      "Meik Wiking"
+    ],
     "date_read": 2019,
-    "description": "It's easy to see why Denmark is often called the world's happiest country. Not only do they have equal parental leave for men and women, free higher education and trains that run on time, but they burn more candles per household than anywhere else. So nobody knows more about happiness - what the Danes call lykke - than Meik Wiking, CEO of the Happiness Research Institute in Copenhagen and author of the bestselling sensation The Little Book of Hygge . But he believes that, whilst we can certainly learn a lot from the Danes about finding fulfilment, the keys to happiness are actually buried all around the globe. In this captivating book, he takes us on a treasure hunt to unlock the doors to inner fulfilment. From how we spend our precious time, to how we relate to our neighbours and cook dinner, he gathers evidence, stories and tips from the very happiest corners of the planet. This is the ultimate guide to how we can all find a little more lykke in our lives.",
+    "description": "",
     "photo": "/images/theLittleBookOfLykke.jpg",
     "isbn": "9780062820334",
-    "tags": ["happiness", "hygge", "lifestyle"],
-    "rating": 4.02
+    "tags": [
+      "happiness",
+      "hygge",
+      "lifestyle"
+    ],
+    "rating": 4.03
   },
   {
     "id": 14,
     "title": "Gone Viking",
-    "author": ["Helen Russel"],
+    "author": [
+      "Helen Russel"
+    ],
     "date_read": 2019,
     "description": "\u003cb\u003eBe bold. Be brave. Be Viking...\u003c/b\u003e\u003cbr /\u003e\u003cb\u003e\u003c/b\u003e\u003cbr /\u003e\u003cb\u003e\u003c/b\u003e\u003ci\u003eThe uplifting, laugh out loud debut novel from the bestselling author of THE YEAR OF LIVING DANISHLY\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003eFrazzled mum Alice Ray likes to think she’s on top everything – she has FOUR bags-for-life in the boot of her car for heaven's sake. But after spectacularly embarrassing herself at work, she finally gives in to her sister’s pleas to take a much needed break.\u003cbr /\u003e\u003cbr /\u003eBut this is not the luxury spa holiday Alice hoped for – instead, she finds herself in Denmark, in the middle of nowhere, on a ‘How to be a Viking’ getaway.\u003cbr /\u003e\u003cbr /\u003eCan the two sisters finally learn to get along or will learning to embrace their inner warrior just make them better at fighting?\u003cbr /\u003e\u003cbr /\u003e\u003cb\u003eTwo sisters. One Scandi holiday they'll never forget...\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003e\u003cb\u003eGONE VIKING is a laugh out loud debut novel perfect for fans of Sophie Kinsella's \u003ci\u003eSurprise Me \u003c/i\u003e\u003c/b\u003e",
     "photo": "/images/GoneViking.jpg",
     "isbn": "9781785036491",
-    "tags": ["fiction", "funny"],
+    "tags": [
+      "fiction",
+      "funny"
+    ],
     "rating": 3.56
   },
   {
     "id": 15,
     "title": "Shoe Dog",
-    "author": ["Phil Knight"],
+    "author": [
+      "Phil Knight"
+    ],
     "date_read": 2018,
     "description": "In this instant\u003ci\u003e \u003c/i\u003eand tenacious \u003ci\u003eNew York Times\u003c/i\u003e bestseller, Nike founder and board chairman Phil Knight “offers a rare and revealing look at the notoriously media-shy man behind the swoosh” (\u003ci\u003eBooklist\u003c/i\u003e, starred review), opening up about his company’s early days as an intrepid start-up and its evolution into one of the world’s most iconic, game-changing, and profitable brands.\u003cbr /\u003e\u003cbr /\u003eYoung, searching, fresh out of business school, Phil Knight borrowed fifty dollars from his father and launched a company with one simple mission: import high-quality, low-cost running shoes from Japan. Selling the shoes from the trunk of his car in 1963, Knight grossed eight thousand dollars that first year. Today, Nike’s annual sales top $30 billion. In this age of start-ups, Knight’s Nike is the gold standard, and its swoosh is more than a logo. A symbol of grace and greatness, it’s one of the few icons instantly recognized in every corner of the world.\u003cbr /\u003e\u003cbr /\u003eBut Knight, the man behind the swoosh, has always been a mystery. In \u003ci\u003eShoe Dog\u003c/i\u003e, he tells his story at last. It all begins with a classic crossroads moment at twenty-four, backpacking across the world, and wrestling with life’s Great Questions. Rather than work for a big corporation, Knight decides he will create something all his own, something new, dynamic, different. He details the many terrifying risks he encountered, the crushing setbacks, the ruthless competitors, the countless doubters and haters and hostile bankers—as well as his many thrilling triumphs and narrow escapes. Above all, he recalls the relationships that formed the heart and soul of Nike, with his former track coach, the irascible and charismatic Bill Bowerman, and with his first employees, a ragtag group of misfits and savants who quickly became a band of swoosh-crazed brothers.\u003cbr /\u003e\u003cbr /\u003eTogether, harnessing the electrifying power of a bold vision and a shared belief in the redemptive, transformative power of sports, they created a brand—and a culture—that changed everything.",
     "photo": "/images/ShoeDog.jpg",
     "isbn": "9781501135927",
-    "tags": ["autobiography", "inspiring", "entrepreneurial"],
-    "rating": 4.49
+    "tags": [
+      "autobiography",
+      "inspiring",
+      "entrepreneurial"
+    ],
+    "rating": 4.48
   },
   {
     "id": 16,
     "title": "Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone",
-    "author": ["Satya Nadella"],
+    "author": [
+      "Satya Nadella"
+    ],
     "date_read": 2018,
     "description": "As told by Microsoft CEO Satya Nadella, Hit Refresh is the story of corporate change and reinvention as well as the story of Nadella’s personal journey, one that is taking place today inside a storied technology company, and one that is coming in all of our lives as intelligent machines become more ambient and more ubiquitous. It’s about how people, organizations and societies can and must hit refresh—transform—in their persistent quest for new energy, new ideas, relevance and renewal. At the core, it’s about us humans and our unique qualities, like empathy, which will become ever more valuable in a world where the torrent of technology will disrupt like never before. As much a humanist as a technologist, Nadella defines his mission and that of the company he leads as empowering every person and every organization on the planet to achieve more.",
     "photo": "/images/HitRefreshSatya.jpg",
     "isbn": "9783864704833",
-    "tags": ["autobiography", "technology", "inspiring"],
-    "rating": 3.79
+    "tags": [
+      "autobiography",
+      "technology",
+      "inspiring"
+    ],
+    "rating": 3.8
   },
   {
     "id": 17,
     "title": "Lean In: Women, Work, and the Will to Lead",
-    "author": ["Sheryl Sandberg"],
+    "author": [
+      "Sheryl Sandberg"
+    ],
     "date_read": 2018,
-    "description": "In Lean In, Sheryl Sandberg reignited the conversation around women in the workplace.Sandberg is chief operating officer of Facebook and coauthor of Option B with Adam Grant. In 2010, she gave an electrifying TED talk in which she described how women unintentionally hold themselves back in their careers. Her talk, which has been viewed more than six million times, encouraged women to “sit at the table,” seek challenges, take risks, and pursue their goals with gusto. Lean In continues that conversation, combining personal anecdotes, hard data, and compelling research to change the conversation from what women can’t do to what they can. Sandberg provides practical advice on negotiation techniques, mentorship, and building a satisfying career. She describes specific steps women can take to combine professional achievement with personal fulfillment, and demonstrates how men can benefit by supporting women both in the workplace and at home.Written with humor and wisdom, Lean In is a revelatory, inspiring call to action and a blueprint for individual growth that will empower women around the world to achieve their full potential. ",
+    "description": "In Deutschland sitzen in den Vorständen der 100 umsatzstärksten Firmen gerade einmal drei Prozent Frauen. International sieht es nicht viel besser aus. Sheryl Sandberg ist COO von Facebook und gehörte davor zur Führungsmannschaft bei Google. Zusammen mit ihrem Mann Dave erzieht sie zwei kleine Kinder. Sie ist eine der wenigen sichtbaren Top-Managerinnen weltweit und ein Vorbild für Frauen aller Generationen. In ihrem Buch widmet sie sich ihrem Herzensthema: Wie können mehr Frauen in anspruchsvollen Jobs an die Spitze gelangen? Sie beschreibt äußere und innere Barrieren, die Frauen den Aufstieg verwehren. Sandberg zeigt, wie jede Frau ihre Ziele erreichen kann.",
     "photo": "/images/LeanIn.jpg",
     "isbn": "9783548375496",
-    "tags": ["technology", "inspiring", "informative"],
+    "tags": [
+      "technology",
+      "inspiring",
+      "informative"
+    ],
     "rating": 3.95
   },
   {
     "id": 18,
     "title": "Ready Player One",
-    "author": ["Ernest Cline"],
+    "author": [
+      "Ernest Cline"
+    ],
     "date_read": 2019,
-    "description": "A world at stake. \u003c/b\u003e\u003cb\u003eA quest for the ultimate prize. \u003c/b\u003e\u003cb\u003e\n  \u003ci\u003eAre you ready?**\u003c/i\u003e\n\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003eIn the year 2045, reality is an ugly place. The only time Wade Watts really feels alive is when he’s jacked into the OASIS, a vast virtual world where most of humanity spends their days.\u003cbr /\u003e\u003cbr /\u003eWhen the eccentric creator of the OASIS dies, he leaves behind a series of fiendish puzzles, based on his obsession with the pop culture of decades past. Whoever is first to solve them will inherit his vast fortune – and control of the OASIS itself.\u003cbr /\u003e\u003cbr /\u003eThen Wade cracks the first clue. Suddenly he’s beset by rivals who’ll kill to take this prize. The race is on – and the only way to survive is to win.\u003cbr /\u003e\u003cbr /\u003e\u003cbr /\u003e‘Wildly original and stuffed with irresistible nostalgia, \u003ci\u003eReady Player One\u003c/i\u003e is a spectacularly genre-busting, ambitious, and charming debut’ \u003ci\u003e\n  \u003cb\u003eIndependent\u003c/b\u003e\n\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003e‘Part intergalactic scavenger hunt, part romance, and all heart’ \u003ci\u003e\n  \u003cb\u003eCNN \u003c/b\u003e\n\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003e‘Ernest Cline’s novel deserves to be a modern classic’ \u003ci\u003e\n  \u003cb\u003eSciFiNow\u003c/b\u003e\n\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003e‘Gorgeously geeky, superbly entertaining, this really is a spectacularly successful debut’ \u003ci\u003e\n  \u003cb\u003eDaily Mail\u003c/b\u003e\n\u003c/i\u003e",
+    "description": "\u003cb\u003eSOON TO BE A MAJOR MOTION PICTURE DIRECTED BY STEVEN SPIELBERG\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003e\u003cb\u003e**A world at stake. \u003c/b\u003e\u003cb\u003eA quest for the ultimate prize. \u003c/b\u003e\u003cb\u003e\n  \u003ci\u003eAre you ready?**\u003c/i\u003e\n\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003eIn the year 2045, reality is an ugly place. The only time Wade Watts really feels alive is when he’s jacked into the OASIS, a vast virtual world where most of humanity spends their days.\u003cbr /\u003e\u003cbr /\u003eWhen the eccentric creator of the OASIS dies, he leaves behind a series of fiendish puzzles, based on his obsession with the pop culture of decades past. Whoever is first to solve them will inherit his vast fortune – and control of the OASIS itself.\u003cbr /\u003e\u003cbr /\u003eThen Wade cracks the first clue. Suddenly he’s beset by rivals who’ll kill to take this prize. The race is on – and the only way to survive is to win.\u003cbr /\u003e\u003cbr /\u003e\u003cbr /\u003e‘Wildly original and stuffed with irresistible nostalgia, \u003ci\u003eReady Player One\u003c/i\u003e is a spectacularly genre-busting, ambitious, and charming debut’ \u003ci\u003e\n  \u003cb\u003eIndependent\u003c/b\u003e\n\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003e‘Part intergalactic scavenger hunt, part romance, and all heart’ \u003ci\u003e\n  \u003cb\u003eCNN \u003c/b\u003e\n\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003e‘Ernest Cline’s novel deserves to be a modern classic’ \u003ci\u003e\n  \u003cb\u003eSciFiNow\u003c/b\u003e\n\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003e‘Gorgeously geeky, superbly entertaining, this really is a spectacularly successful debut’ \u003ci\u003e\n  \u003cb\u003eDaily Mail\u003c/b\u003e\n\u003c/i\u003e",
     "photo": "/images/readyPlayerOne.jpg",
     "isbn": "9781784754792",
-    "tags": ["fiction", "sci-fi"],
+    "tags": [
+      "fiction",
+      "sci-fi"
+    ],
     "rating": 4.26
   },
   {
     "id": 19,
     "title": "Animal Farm",
-    "author": ["George Orwell"],
+    "author": [
+      "George Orwell"
+    ],
     "date_read": 2018,
-    "description": "Animal Farm is an allegorical novella by George Orwell, first published in England on 17 August 1945. The book tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy.",
+    "description": "",
     "photo": "/images/animalFarm.jpg",
     "isbn": "9781444121414",
-    "tags": ["allegorical", "pyschology"],
+    "tags": [
+      "allegorical",
+      "pyschology"
+    ],
     "rating": 2
   },
   {
     "id": 20,
     "title": "The Little Book of Hygge",
-    "author": ["Meik Wiking"],
+    "author": [
+      "Meik Wiking"
+    ],
     "date_read": 2018,
-    "description": "Embrace Hygge (pronounced hoo-ga) and become happier with this definitive guide to the Danish philosophy of comfort, togetherness, and well-being.\u003cbr /\u003e\u003cbr /\u003eWhy are Danes the happiest people in the world? The answer, says Meik Wiking, CEO of the Happiness Research Institute in Copenhagen, is Hygge. Loosely translated, Hygge--pronounced Hoo-ga--is a sense of comfort, togetherness, and well-being. -Hygge is about an atmosphere and an experience, - Wiking explains. -It is about being with the people we love. A feeling of home. A feeling that we are safe.-\u003cbr /\u003e\u003cbr /\u003eHygge is the sensation you get when you're cuddled up on a sofa, in cozy socks under a soft throw, during a storm. It's that feeling when you're sharing comfort food and easy conversation with loved ones at a candlelit table. It is the warmth of morning light shining just right on a crisp blue-sky day.\u003cbr /\u003e\u003cbr /\u003e\u003cem\u003eThe Little Book of Hygge\u003c/em\u003e introduces you to this cornerstone of Danish life, and offers advice and ideas on incorporating it into your own life, such as:\u003cbr /\u003e\u003cbr /\u003e\u003cbr /\u003eGet comfy. Take a break.\u003cbr /\u003eBe here now. Turn off the phones.\u003cbr /\u003eTurn down the lights. Bring out the candles.\u003cbr /\u003eBuild relationships. Spend time with your tribe.\u003cbr /\u003eGive yourself a break from the demands of healthy living. Cake is most definitely Hygge.\u003cbr /\u003eLive life today, like there is no coffee tomorrow.\u003cbr /\u003eFrom picking the right lighting to organizing a Hygge get-together to dressing hygge, Wiking shows you how to experience more joy and contentment the Danish way.",
+    "description": "\u003cstrong\u003e\u003cem\u003eNew York Times\u003c/em\u003e Bestseller\u003c/strong\u003e\u003cbr /\u003e\u003cbr /\u003eEmbrace Hygge (pronounced hoo-ga) and become happier with this definitive guide to the Danish philosophy of comfort, togetherness, and well-being.\u003cbr /\u003e\u003cbr /\u003eWhy are Danes the happiest people in the world? The answer, says Meik Wiking, CEO of the Happiness Research Institute in Copenhagen, is Hygge. Loosely translated, Hygge--pronounced Hoo-ga--is a sense of comfort, togetherness, and well-being. -Hygge is about an atmosphere and an experience, - Wiking explains. -It is about being with the people we love. A feeling of home. A feeling that we are safe.-\u003cbr /\u003e\u003cbr /\u003eHygge is the sensation you get when you're cuddled up on a sofa, in cozy socks under a soft throw, during a storm. It's that feeling when you're sharing comfort food and easy conversation with loved ones at a candlelit table. It is the warmth of morning light shining just right on a crisp blue-sky day.\u003cbr /\u003e\u003cbr /\u003e\u003cem\u003eThe Little Book of Hygge\u003c/em\u003e introduces you to this cornerstone of Danish life, and offers advice and ideas on incorporating it into your own life, such as:\u003cbr /\u003e\u003cbr /\u003e\u003cbr /\u003eGet comfy. Take a break.\u003cbr /\u003eBe here now. Turn off the phones.\u003cbr /\u003eTurn down the lights. Bring out the candles.\u003cbr /\u003eBuild relationships. Spend time with your tribe.\u003cbr /\u003eGive yourself a break from the demands of healthy living. Cake is most definitely Hygge.\u003cbr /\u003eLive life today, like there is no coffee tomorrow.\u003cbr /\u003eFrom picking the right lighting to organizing a Hygge get-together to dressing hygge, Wiking shows you how to experience more joy and contentment the Danish way.",
     "photo": "/images/theLittleBookOfHygge.jpg",
     "isbn": "9781432839673",
-    "tags": ["happiness", "hygge", "lifestyle"],
-    "rating": 3.74
+    "tags": [
+      "happiness",
+      "hygge",
+      "lifestyle"
+    ],
+    "rating": 3.75
   },
   {
     "id": 21,
     "title": "The Subtle Art of Not Giving a F*ck",
-    "author": ["Mark Manson"],
+    "author": [
+      "Mark Manson"
+    ],
     "date_read": 2019,
-    "description": "In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be \"positive\" all the time so that we can truly become better, happier people.\u003cbr /\u003e\u003cbr /\u003eFor decades, we’ve been told that positive thinking is the key to a happy, rich life. \"F**k positivity,\" Mark Manson says. \"Let’s be honest, shit is f**ked and we have to live with it.\" In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. \u003cem\u003eThe Subtle Art of Not Giving a F**k\u003c/em\u003e is his antidote to the coddling, let’s-all-feel-good mindset that has infected modern society and spoiled a generation, rewarding them with gold medals just for showing up.\u003cbr /\u003e\u003cbr /\u003eManson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons better. Human beings are flawed and limited—\"not everybody can be extraordinary, there are winners and losers in society, and some of it is not fair or your fault.\" Manson advises us to get to know our limitations and accept them. Once we embrace our fears, faults, and uncertainties, once we stop running and avoiding and start confronting painful truths, we can begin to find the courage, perseverance, honesty, responsibility, curiosity, and forgiveness we seek.\u003cbr /\u003e\u003cbr /\u003eThere are only so many things we can give a f**k about so we need to figure out which ones really matter, Manson makes clear. While money is nice, caring about what you do with your life is better, because true wealth is about experience. A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, \u003cem\u003eThe Subtle Art of Not Giving a F**k\u003c/em\u003e is a refreshing slap for a generation to help them lead contented, grounded lives.",
+    "description": "\u003cstrong\u003e\u003cem\u003eNew York Times\u003c/em\u003e Bestseller\u003c/strong\u003e\u003cbr /\u003e\u003cbr /\u003eIn this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be \"positive\" all the time so that we can truly become better, happier people.\u003cbr /\u003e\u003cbr /\u003eFor decades, we’ve been told that positive thinking is the key to a happy, rich life. \"F**k positivity,\" Mark Manson says. \"Let’s be honest, shit is f**ked and we have to live with it.\" In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. \u003cem\u003eThe Subtle Art of Not Giving a F**k\u003c/em\u003e is his antidote to the coddling, let’s-all-feel-good mindset that has infected modern society and spoiled a generation, rewarding them with gold medals just for showing up.\u003cbr /\u003e\u003cbr /\u003eManson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons better. Human beings are flawed and limited—\"not everybody can be extraordinary, there are winners and losers in society, and some of it is not fair or your fault.\" Manson advises us to get to know our limitations and accept them. Once we embrace our fears, faults, and uncertainties, once we stop running and avoiding and start confronting painful truths, we can begin to find the courage, perseverance, honesty, responsibility, curiosity, and forgiveness we seek.\u003cbr /\u003e\u003cbr /\u003eThere are only so many things we can give a f**k about so we need to figure out which ones really matter, Manson makes clear. While money is nice, caring about what you do with your life is better, because true wealth is about experience. A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, \u003cem\u003eThe Subtle Art of Not Giving a F**k\u003c/em\u003e is a refreshing slap for a generation to help them lead contented, grounded lives.",
     "photo": "/images/The_Subtle_Art_of_Not_Giving_a_F ck.png",
     "isbn": "9780062457714",
-    "tags": ["mindest", "growth"],
-    "rating": 3.95
+    "tags": [
+      "mindest",
+      "growth"
+    ],
+    "rating": 3.94
   },
   {
     "id": 22,
     "title": "Cloud Native DevOps with Kubernetes",
-    "author": ["Jason Arundel, Justin Domingus"],
+    "author": [
+      "Jason Arundel, Justin Domingus"
+    ],
     "date_read": 2019,
     "description": "Kubernetes is the operating system of the cloud native world, providing a reliable and scalable platform for running containerized workloads. In this friendly, pragmatic book, cloud experts John Arundel and Justin Domingus show you what Kubernetes can do--and what you can do with it.\u003cbr /\u003e\u003cbr /\u003eYou'll learn all about the Kubernetes ecosystem, and use battle-tested solutions to everyday problems. You'll build, step by step, an example cloud native application and its supporting infrastructure, along with a development environment and continuous deployment pipeline that you can use for your own applications.\u003cbr /\u003e\u003cbr /\u003e\u003cbr /\u003eUnderstand containers and Kubernetes from first principles; no experience necessary\u003cbr /\u003eRun your own clusters or choose a managed Kubernetes service from Amazon, Google, and others\u003cbr /\u003eUse Kubernetes to manage resource usage and the container lifecycle\u003cbr /\u003eOptimize clusters for cost, performance, resilience, capacity, and scalability\u003cbr /\u003eLearn the best tools for developing, testing, and deploying your applications\u003cbr /\u003eApply the latest industry practices for security, observability, and monitoring\u003cbr /\u003eAdopt DevOps principles to help make your development teams lean, fast, and effective",
     "photo": "/images/cloudNativeDevopsWithKubernetes.jpg",
     "isbn": "9781492040767",
-    "tags": ["devops", "kubernetes"],
-    "rating": 4.37
+    "tags": [
+      "devops",
+      "kubernetes"
+    ],
+    "rating": 4.39
   },
   {
     "id": 23,
     "title": "The Gene: An Intimate History",
-    "author": ["Dr Siddhartha Mukherjee"],
+    "author": [
+      "Dr Siddhartha Mukherjee"
+    ],
     "date_read": 2019,
     "description": "The Gene is the story of one of the most powerful and dangerous ideas in our history from the author of The Emperor of All Maladies.\u003cbr /\u003e\u003cbr /\u003eThe story begins in an Augustinian abbey in 1856, and takes the reader from Darwin’s groundbreaking theory of evolution, to the horrors of Nazi eugenics, to present day and beyond - as we learn to “read” and “write” the human genome that unleashes the potential to change the fates and identities of our children.\u003cbr /\u003e\u003cbr /\u003eMajestic in its scope and ambition, The Gene provides us with a definitive account of the epic history of the quest to decipher the master-code that makes and defines humans – and paints a fascinating vision of both humanity’s past and future.",
     "photo": "/images/theGeneAnIntimateHistory.jpg",
     "isbn": "9783596032358",
-    "tags": ["science"],
-    "rating": 4.36
+    "tags": [
+      "science"
+    ],
+    "rating": 4.35
   },
   {
     "id": 24,
     "title": "Tools and Weapons: The Promise and the Peril of the Digital Age",
-    "author": ["Brad Smith \u0026 Carol Ann Browne"],
+    "author": [
+      "Brad Smith \u0026 Carol Ann Browne"
+    ],
     "date_read": 2020,
-    "description": "From Microsoft's president and one of the tech industry's broadest thinkers, a frank and thoughtful reckoning with how to balance enormous promise and existential risk as the digitization of everything accelerates.'A colorful and insightful insiders’ view of how technology is both empowering and threatening us. From privacy to cyberattacks, this timely book is a useful guide for how to navigate the digital future.' —Walter Isaacson.Microsoft President Brad Smith operates by a simple core belief: When your technology changes the world, you bear a responsibility to help address the world you have helped create. This might seem uncontroversial, but it flies in the face of a tech sector long obsessed with rapid growth and sometimes on disruption as an end in itself. While sweeping digital transformation holds great promise, we have reached an inflection point. The world has turned information technology into both a powerful tool and a formidable weapon, and new approaches are needed to manage an era defined by even more powerful inventions like artificial intelligence. Companies that create technology must accept greater responsibility for the future, and governments will need to regulate technology by moving faster and catching up with the pace of innovation. In Tools and Weapons, Brad Smith and Carol Ann Browne bring us a captivating narrative from the cockpit of one of the world's largest and most powerful tech companies as it finds itself in the middle of some of the thorniest emerging issues of our time. These are challenges that come with no preexisting playbook, including privacy, cybercrime and cyberwar, social media, the moral conundrums of artificial intelligence, big tech's relationship to inequality, and the challenges for democracy, far and near. While in no way a self-glorifying 'Microsoft memoir,' the book pulls back the curtain remarkably wide onto some of the company's most crucial recent decision points as it strives to protect the hopes technology offers against the very real threats it also presents. There are huge ramifications for communities and countries, and Brad Smith provides a thoughtful and urgent contribution to that effort.",
+    "description": "\u003cb\u003e\u003cb\u003eWith a foreword by Bill Gates\u003c/b\u003e \u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003eFrom Microsoft's President and one of the tech industry's wisest thinkers, a frank and thoughtful reckoning with how to balance enormous promise and existential risk as the digitization of everything accelerates.\u003cbr /\u003e\u003cbr /\u003eMicrosoft President Brad Smith operates by a simple core belief: when your technology changes the world, you bear a responsibility to help address the world you have helped create. This might seem uncontroversial, but it flies in the face of a tech sector long obsessed with rapid growth and sometimes on disruption as an end in itself. Now, though, we have reached an inflection point: Silicon Valley has moved fast and it has broken things. A new understanding has emerged that companies that create technology must accept greater responsibility for the future. And governments will need to regulate technology by moving faster and catching up with the pace of innovation that is impacting our communities and changing the world.\u003cbr /\u003e\u003cbr /\u003eIn \u003ci\u003eTools and Weapons\u003c/i\u003e, Brad Smith takes us into the cockpit of one of the world's largest and most powerful tech companies as it finds itself in the middle of some of the thorniest emerging issues of our time. These are challenges that come with no preexisting playbook, including privacy, cybercrime and cyberwar, social media, the moral conundrums of AI, big tech's relationship to inequality and the challenges for democracy, far and near. While in no way a self-glorifying \"Microsoft memoir,\" the book opens up the curtain remarkably wide onto some of the company's most crucial recent decision points, as it strives to protect the hopes technology offers against the very real threats it also presents. Every tool can be a weapon in the wrong person's hands, and companies are being challenged in entirely new ways to embrace the totality of their responsibilities. We have moved from a world in which Silicon Valley could take no prisoners to one in which tech companies and governments must work together to address the challenges and adapt to the changes technology has unleashed. There are huge ramifications to be thought through, and Brad Smith provides a marvelous and urgently necessary contribution to that effort.",
     "photo": "/images/toolsAndWeapons.jpg",
     "isbn": " 9781984879226",
-    "tags": ["technology"],
-    "rating": 4.36
+    "tags": [
+      "technology"
+    ],
+    "rating": 3.93
   },
   {
     "id": 25,
     "title": "Zero to One: Notes on Startups, or How to Build the Future",
-    "author": ["Blake Masters \u0026 Peter Thiel"],
+    "author": [
+      "Blake Masters \u0026 Peter Thiel"
+    ],
     "date_read": 2020,
-    "description": "If you want to build a better future, you must believe in secrets. The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself. Doing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
+    "description": "If you want to build a better future, you must believe in secrets.\u003cbr /\u003e\u003cbr /\u003eThe great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. \u003cbr /\u003e\u003cbr /\u003eThiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself.\u003cbr /\u003e\u003cbr /\u003eDoing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. \u003cbr /\u003e\u003cbr /\u003eZero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
     "photo": "/images/zeroToOne.jpg",
     "isbn": "9780804139298",
-    "tags": ["technology"],
+    "tags": [
+      "technology"
+    ],
     "rating": 4.17
   },
   {
     "id": 26,
     "title": "Reset: My Fight for Inclusion and Lasting Change",
-    "author": ["Ellen Pao"],
+    "author": [
+      "Ellen Pao"
+    ],
     "date_read": 2020,
-    "description": "'The necessary and incisive' account of the discrimination case that 'has blown open a conversation about the status of women in the workplace' (The New York Times). In 2015, Ellen K. Pao sued a powerhouse Silicon Valley venture capital firm, calling out workplace discrimination and retaliation against women and other underrepresented groups. Her suit rocked the tech world--and exposed its toxic culture and its homogeneity. Her message overcame negative PR attacks that took aim at her professional conduct and her personal life, and she won widespread public support--Time hailed her as 'the face of change.' Though Pao lost her suit, she revolutionized the conversation at tech offices, in the media, and around the world. In Reset, she tells her full story for the first time. The daughter of immigrants, Pao was taught that through hard work she could achieve her dreams. She earned multiple Ivy League degrees, worked at top startups, and in 2005 was recruited by Kleiner Perkins, arguably the world's leading venture capital firm at the time. In many ways, she did everything right, and yet she and other women and people of color were excluded from success--cut out of decisive meetings and email discussions, uninvited to CEO dinners and lavish networking trips, and had their work undercut or appropriated by male executives. It was time for a system reset. After Kleiner, Pao became CEO of reddit, where she took forceful action to change the status quo for the company and its product. She banned revenge porn and unauthorized nude photos--an action other large media sites later followed--and shut down parts of reddit over online harassment. She and seven other women tech leaders formed Project Include, an award-winning nonprofit for accelerating diversity and inclusion in tech. In her book, Pao shines a light on troubling issues that plague today's workplace and lays out practical, inspiring, and achievable goals for a better future. Ellen K. Pao's Reset is a rallying cry--the story of a whistleblower who aims to empower everyone struggling to be heard, in Silicon Valley and beyond.",
+    "description": "The \"necessary and incisive\" (Roxane Gay) account of the discrimination case that \"has blown open a conversation about the status of women\" in the workplace (\u003ci\u003eThe New York Times\u003c/i\u003e)\u003cbr /\u003e\u003cbr /\u003eIn 2015, Ellen K. Pao sued a powerhouse Silicon Valley venture capital firm, calling out workplace discrimination and retaliation against women and other underrepresented groups. Her suit rocked the tech world--and exposed its toxic culture and its homogeneity. Her message overcame negative PR attacks that took aim at her professional conduct and her personal life, and she won widespread public support--Time hailed her as \"the face of change.\" Though Pao lost her suit, she revolutionized the conversation at tech offices, in the media, and around the world. In Reset, she tells her full story for the first time.\u003cbr /\u003e\u003cbr /\u003eThe daughter of immigrants, Pao was taught that through hard work she could achieve her dreams. She earned multiple Ivy League degrees, worked at top startups, and in 2005 was recruited by Kleiner Perkins, arguably the world's leading venture capital firm at the time. In many ways, she did everything right, and yet she and other women and people of color were excluded from success--cut out of decisive meetings and email discussions, uninvited to CEO dinners and lavish networking trips, and had their work undercut or appropriated by male executives. It was time for a system reset.\u003cbr /\u003e\u003cbr /\u003eAfter Kleiner, Pao became CEO of reddit, where she took forceful action to change the status quo for the company and its product. She banned revenge porn and unauthorized nude photos--an action other large media sites later followed--and shut down parts of reddit over online harassment. She and seven other women tech leaders formed Project Include, an award-winning nonprofit for accelerating diversity and inclusion in tech. In her book, Pao shines a light on troubling issues that plague today's workplace and lays out practical, inspiring, and achievable goals for a better future.\u003cbr /\u003e\u003cbr /\u003eEllen K. Pao's Reset is a rallying cry--the story of a whistleblower who aims to empower everyone struggling to be heard, in Silicon Valley and beyond. (less)",
     "photo": "/images/reset_my_fight_for_inclusion_and_lasting_change.jpg",
     "isbn": "9780399591013",
-    "tags": ["technology", "inclusion"],
-    "rating": 4.19
+    "tags": [
+      "technology",
+      "inclusion"
+    ],
+    "rating": 4.15
+  },
+  {
+    "id": 26,
+    "title": "Three Women",
+    "author": [
+      "Lisa Taddeo"
+    ],
+    "date_read": 2020,
+    "description": "\u003cb\u003eA riveting true story about the sex lives of three real American women, based on nearly a decade of reporting.\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003eHailed as “a dazzling achievement” (\u003ci\u003eLos Angeles Times\u003c/i\u003e) and “riveting page-turner that explores desire, heartbreak, and infatuation in all its messy, complicated nuance” (\u003ci\u003eThe Washington Post\u003c/i\u003e), Lisa Taddeo’s \u003ci\u003eThree Women\u003c/i\u003e has captivated readers, booksellers, and critics—and topped bestseller lists—worldwide.\u003cbr /\u003e\u003cbr /\u003eIn suburban Indiana we meet Lina, a homemaker and mother of two whose marriage, after a decade, has lost its passion. Starved for affection, Lina battles daily panic attacks and, after reconnecting with an old flame through social media, embarks on an affair that quickly becomes all-consuming. In North Dakota we meet Maggie, a seventeen-year-old high school student who allegedly has a clandestine physical relationship with her handsome, married English teacher; the ensuing criminal trial will turn their quiet community upside down. Finally, in an exclusive enclave of the Northeast, we meet Sloane—a gorgeous, successful, and refined restaurant owner—who is happily married to a man who likes to watch her have sex with other men and women.\u003cbr /\u003e\u003cbr /\u003eBased on years of immersive reporting and told with astonishing frankness and immediacy, \u003ci\u003eThree Women\u003c/i\u003e is both a feat of journalism and a triumph of storytelling, brimming with nuance and empathy. “A work of deep observation, long conversations, and a kind of journalistic alchemy” (Kate Tuttle, NPR), Three Women introduces us to three unforgettable women—and one remarkable writer—whose experiences remind us that we are not alone.",
+    "photo": "/images/threeWomen.jpg",
+    "isbn": "9781432871222",
+    "tags": [
+      "feminism"
+    ],
+    "rating": 3.69
+  },
+  {
+    "id": 26,
+    "title": "Chemical Warrior",
+    "author": [
+      "Hamish de Bretton-Gordon"
+    ],
+    "date_read": 2020,
+    "description": "",
+    "photo": "/images/chemicalWarrior.jpg",
+    "isbn": "9781472274540",
+    "tags": [
+      "technology",
+      "human rights"
+    ],
+    "rating": 3.5
+  },
+  {
+    "id": 26,
+    "title": "self-care for the real world",
+    "author": [
+      "Katia Narain Phillips and Nadia Narain"
+    ],
+    "date_read": 2020,
+    "description": "Wellness pioneers Nadia Narain and Katia Narain Phillips have spent years helping others to feel their best, but it took them a bit longer to understand how to look after themselves. Here they share the small achievable steps they have learned, and how you can apply them to your own life, wherever you are.\u003cbr /\u003e\u003ci\u003eSelf-Care for the Real World\u003c/i\u003e is a combination of friendly advice, personal stories, exercises, and recipes. The book is a practical guide to self-care for real people with busy lives. The authors are sharp and funny, and they acknowledge that there is no one way to practice self-care. They’re not here to give strict instructions or preach drastic life changes, but to offer small suggestions to help you toward becoming the best version of yourself.",
+    "photo": "/images/selfCareForTheRealWorld.jpg",
+    "isbn": "9781419736773",
+    "tags": [
+      "self-care"
+    ],
+    "rating": 3.73
+  },
+  {
+    "id": 27,
+    "title": "The Three-Body Problem",
+    "author": [
+      "Liu Cixin"
+    ],
+    "date_read": 2020,
+    "description": "The Three-Body Problem is the first chance for English-speaking readers to experience the Hugo Award-winning phenomenon from China's most beloved science fiction author, Liu Cixin.Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.",
+    "photo": "/images/three_body_problem.jpg",
+    "isbn": "0765377063",
+    "tags": [
+      "science-fiction"
+    ],
+    "rating": 4.05
+  },
+  {
+    "id": 28,
+    "title": "This is Going to Hurt: Secret Diaries of a Junior Doctor",
+    "author": null,
+    "date_read": 0,
+    "description": "Welcome to the life of a junior doctor: 97-hour weeks, life and death decisions, a constant tsunami of bodily fluids, and the hospital parking meter earns more than you. Scribbled in secret after endless days, sleepless nights and missed weekends, Adam Kay's This is Going to Hurt provides a no-holds-barred account of his time on the NHS front line. Hilarious, horrifying and heartbreaking, this diary is everything you wanted to know – and more than a few things you didn't – about life on and off the hospital ward.",
+    "photo": "/images/secret_diaries_junior_doctor.jpg",
+    "isbn": "1509858636",
+    "tags": [],
+    "rating": 4.41
+  },
+  {
+    "id": 29,
+    "title": "The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work",
+    "author": null,
+    "date_read": 0,
+    "description": "Conventional wisdom holds that if we work hard we will be more successful, and if we are more successful, then we’ll be happy. If we can just find that great job, win that next promotion, lose those five pounds, happiness will follow. But recent discoveries in the field of positive psychology have shown that this formula is actually backward: Happiness fuels success, not the other way around. When we are positive, our brains become more engaged, creative, motivated, energetic, resilient, and productive at work. This isn’t just an empty mantra. This discovery has been repeatedly borne out by rigorous research in psychology and neuroscience, management studies, and the bottom lines of organizations around the globe.In The Happiness Advantage, Shawn Achor, who spent over a decade living, researching, and lecturing at Harvard University, draws on his own research—including one of the largest studies of happiness and potential at Harvard and others at companies like UBS and KPMG—to fix this broken formula. Using stories and case studies from his work with thousands of Fortune 500 executives in 42 countries, Achor explains how we can reprogram our brains to become more positive in order to gain a competitive edge at work.",
+    "photo": "/images/happiness_advantage.jpg",
+    "isbn": "9780307591562",
+    "tags": [
+      "self-development"
+    ],
+    "rating": 4.18
   }
 ]

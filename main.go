@@ -3,25 +3,21 @@ package main
 import (
 	"log"
 	"net/http"
-	"time"
+	"os"
 
 	"github.com/mang0kitty/website/src/handlers"
 )
 
 func main() {
 
-	// api.SearchBooks()
+	listenAddr := "8080"
 
-	r := handlers.Handle()
-	srv := &http.Server{
-		Handler: r,
-		Addr:    "0.0.0.0:8000",
-
-		WriteTimeout: 15 * time.Second,
-		ReadTimeout:  15 * time.Second,
+	if val, ok := os.LookupEnv("FUNCTIONS_CUSTOMHANDLER_PORT"); ok {
+		listenAddr = ":" + val
 	}
 
-	log.Println("Starting server on 0.0.0.0:8000")
-	log.Fatal(srv.ListenAndServe())
+	http.Handle("/", handlers.Handle())
+	log.Printf("About to listen on %s. Go to http://127.0.0.1%s/", listenAddr, listenAddr)
+	log.Fatal(http.ListenAndServe(listenAddr, nil))
 
 }

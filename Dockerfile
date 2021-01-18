@@ -7,7 +7,7 @@ FROM scratch
 WORKDIR /app
 COPY --from=builder /app/main /app/main
 ADD ./src/store/ /app/src/store/
-EXPOSE 8000
+EXPOSE 8001
 
 ENTRYPOINT ["/app/main"]
 

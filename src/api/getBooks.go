@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
+	"log"
 	"net/url"
 	"os"
 
@@ -27,8 +28,10 @@ func SearchBooks() {
 		grb, err := GoodReads(book.ISBN)
 		if err != nil {
 			fmt.Println("Failed to get info for ISBN", book.ISBN)
+			log.Println(err)
 			continue
 		}
+		fmt.Printf(" Receieved book from GoodReads API %+v\n", grb)
 
 		book.Description = grb.Description
 		book.Rating = grb.AverageRating
@@ -51,8 +54,10 @@ func GoodReads(query string) (*XMLBook, error) {
 		return nil, err
 	} else {
 		defer xmlStream.Close()
+		var decoder = xml.NewDecoder(xmlStream)
+		decoder.Strict = false
 		var result XMLBook
-		if err := xml.NewDecoder(xmlStream).Decode(&result); err != nil {
+		if err := decoder.Decode(&result); err != nil {
 			return nil, err
 		} else {
 			return &result, nil

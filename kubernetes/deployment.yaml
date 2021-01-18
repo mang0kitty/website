@@ -20,6 +20,8 @@ spec:
       containers:
         - name: website
           image: faaideen/website:latest
+          imagePullPolicy: Always
           ports:
             - containerPort: 8000
+              name: http
               protocol: TCP
