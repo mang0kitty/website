@@ -1,4 +1,4 @@
-name: Github Actions Automated Deployment
+name: Deploy Website
 on: 
   push:
     branches: [main]
