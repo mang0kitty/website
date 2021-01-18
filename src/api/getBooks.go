@@ -14,7 +14,7 @@ import (
 
 func SearchBooks() {
 
-	r, err := os.OpenFile("src/store/books.json", os.O_RDWR, os.ModePerm)
+	r, err := os.OpenFile("store/books.json", os.O_RDWR, os.ModePerm)
 	helpers.CheckError(err)
 	fmt.Println("Successfully Opened books.json")
 

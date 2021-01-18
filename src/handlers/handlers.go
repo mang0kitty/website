@@ -27,7 +27,7 @@ func BookHandler(w http.ResponseWriter, req *http.Request) {
 	fmt.Println("Successfully Opened books.json")
 
 	enableCors(w)
-	fptr, err := os.Open("src/store/books.json")
+	fptr, err := os.Open("store/books.json")
 	helpers.CheckError(err)
 	fmt.Println("Successfully Opened books.json")
 	defer fptr.Close()
@@ -43,7 +43,7 @@ func ImageHandler(w http.ResponseWriter, req *http.Request) {
 
 	imageName := vars["name"]
 
-	imagePath := fmt.Sprintf("src/store/images/%s", imageName)
+	imagePath := fmt.Sprintf("store/images/%s", imageName)
 
 	fptr, err := os.Open(imagePath)
 	if err != nil {

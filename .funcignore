@@ -1,4 +1,7 @@
 .git*
 .vscode
+src
 local.settings.json
 test
+kubernetes
+*.go
