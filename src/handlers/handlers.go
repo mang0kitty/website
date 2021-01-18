@@ -20,6 +20,7 @@ func Handle() *mux.Router {
 	r := mux.NewRouter()
 	r.HandleFunc("/books", BookHandler)
 	r.HandleFunc("/images/{name}", ImageHandler)
+	r.NotFoundHandler = http.HandlerFunc(IndexHandler)
 	return r
 }
 
@@ -55,4 +56,8 @@ func ImageHandler(w http.ResponseWriter, req *http.Request) {
 	defer fptr.Close()
 
 	io.Copy(w, fptr)
+}
+func IndexHandler(w http.ResponseWriter, req *http.Request) {
+	w.WriteHeader(204)
+	w.Write([]byte("No Response (Invalid API Method)"))
 }
