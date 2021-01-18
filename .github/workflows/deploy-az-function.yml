@@ -18,7 +18,7 @@ jobs:
     steps:
 
       - name: Set up Go
-        uses: actions/setup-go@v1
+        uses: actions/setup-go@v2
 
       - name: Checkout Github Action
         uses: actions/checkout@v2
