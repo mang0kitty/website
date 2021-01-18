@@ -1,0 +1,83 @@
+name: Github Actions Automated Deployment
+on: 
+  push:
+    branches: [main]
+
+env:
+  HANDLER_NAME: built-handler
+
+  LIVE_FUNCTION_NAME: blog-aideen
+  LIVE_HEALTH_CHECK:  https://api.aideen.dev/books|https://www.aideen.dev/library
+
+jobs:
+
+  build:
+    
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Set up Go
+        uses: actions/setup-go@v1
+
+      - name: Checkout Github Action
+        uses: actions/checkout@v2
+
+      - name: Build Handler
+        run: go build -o main main.go
+
+      - name: Save handler artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: HANDLER_NAME
+          path: main
+
+  deploy:
+
+    needs: [build]
+    if: github.event_name == 'push'
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Github Action
+        uses: actions/checkout@v2
+
+      - name: Fetch handler artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: HANDLER_NAME
+
+      - name: 'Login via Azure CLI'
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: 'Run Azure Functions Action'
+        uses: Azure/functions-action@v1
+        with:
+          app-name: ${{ env.LIVE_FUNCTION_NAME }}
+          respect-funcignore: 'true'
+
+  healthcheck:
+
+    needs: [deploy]
+    
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Probe
+        uses: Jtalk/url-health-check-action
+        with:
+          url: ${{ env.LIVE_HEALTHCHECK }}
+          max-attempts: 4
+          retry-delay: 5s
+
+
+
+
+
+    
+
+  
+
